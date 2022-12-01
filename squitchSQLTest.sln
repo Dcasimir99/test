@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "squitchSQLTest", "squitchSQLTest.csproj", "{4C1CF2EA-3514-4F84-94A0-2FABF72FDC2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C1CF2EA-3514-4F84-94A0-2FABF72FDC2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C1CF2EA-3514-4F84-94A0-2FABF72FDC2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C1CF2EA-3514-4F84-94A0-2FABF72FDC2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C1CF2EA-3514-4F84-94A0-2FABF72FDC2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2CB12F2-016A-472F-A759-286EBF5F756B}
+	EndGlobalSection
+EndGlobal
